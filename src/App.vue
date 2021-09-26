@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
@@ -16,7 +16,8 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 25px;
+  padding-top: 10px;
 }
 
 #nav a {
