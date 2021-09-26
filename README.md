@@ -5,6 +5,11 @@
 yarn install
 ```
 
+### run electron app
+```
+yarn start
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
